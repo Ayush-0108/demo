@@ -1,3 +1,3 @@
 # demo
-my first git repository
+my first git repository\n
 author
